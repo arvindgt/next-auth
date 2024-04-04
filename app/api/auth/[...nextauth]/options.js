@@ -70,7 +70,7 @@ export const options = {
                         if (match) {
                             console.log('successful login');
                             delete foundUser.password;
-                            foundUser["role"] = "admin";
+                            // foundUser["role"] = "admin";
                             return foundUser;
                         } else {
                             console.error("Wrong email or password");
