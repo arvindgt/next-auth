@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Versions
 node -v = v20.11.1
+
 npm -v = 10.2.4
 
 ## Getting Started
